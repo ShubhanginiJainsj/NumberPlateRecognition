@@ -1,7 +1,7 @@
 
 <h1 align="centre" > Number Plate Recognition using CNN model </h1>
 <br>
-<img src = "images/noplate.png">
+
 <img src = "/HTML/assets/img/c.png">
 <br>
 <p> In this project, we created a model to capture car's number plate and recognize characters on number plate of the vehicle(car).</p>
